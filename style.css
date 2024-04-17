@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+#relogio{
+    font-size: 5em;
+    color:  lightskyblue;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    background-color: white;
+    padding-bottom: 0.5em;
+}
